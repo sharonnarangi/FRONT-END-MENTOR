@@ -1,0 +1,40 @@
+h1{
+    color: hsl(179, 62%, 43%);
+}
+h2{
+    color: hsl(71, 73%, 54%);
+}
+.Flex{
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    color: white;
+}
+
+
+
+.Offers{
+    background-color: hsl(179, 49%, 69%);
+}
+
+.PayCard{background-color: hsl(179, 62%, 43%);
+
+}
+
+
+body{
+    margin: 8px;
+    text-align: center;
+}
+.list{
+    list-style: none;
+}
+.Button{
+    background-color: hsl(71, 73%, 54%);
+    box-shadow: 2px 2px 4px;
+    padding: 10px;
+    width: 200;
+    
+
+
+}
